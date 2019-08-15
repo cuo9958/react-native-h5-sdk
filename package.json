@@ -1,0 +1,21 @@
+{
+    "name": "@dal/sdk",
+    "version": "0.1.6",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "dev": "tsc --watch",
+        "build": "tsc"
+    },
+    "postcommit": "node update.js && npm publish",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:cuo9958/react-native-h5-sdk.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "node-precommit": "^1.1.2"
+    }
+}
