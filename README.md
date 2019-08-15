@@ -38,7 +38,7 @@ loaded(){
 ### h5中的使用方式
 
 ```javascript
-import sdk from "react-native-h5-sdk"
+import sdk from "react-native-web-sdk"
 
 sdk.login();//调用APP的登录方法
 ```

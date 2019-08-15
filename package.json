@@ -1,5 +1,5 @@
 {
-    "name": "react-native-h5-sdk",
+    "name": "react-native-web-sdk",
     "version": "0.1.6",
     "description": "",
     "main": "dist/index.js",
