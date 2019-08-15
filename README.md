@@ -1,5 +1,6 @@
 ## app和h5的交互协议
 
+![](https://raw.githubusercontent.com/cuo9958/react-native-h5-sdk/master/imgs/app.jpg)
 
 ### React-Native接入准备
 
